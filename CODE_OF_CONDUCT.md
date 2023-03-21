@@ -27,8 +27,7 @@ community include:
 
 Examples of unacceptable behavior include:
 
-* The use of sexualized language or imagery, and sexual attention or advances of
-  any kind
+* The use of ANY language or conntact that may make someone upset or uncomfortable.
 * Trolling, insulting or derogatory comments, and personal or political attacks
 * Public or private harassment
 * Publishing others' private information, such as a physical or email address,
@@ -94,7 +93,7 @@ ban.
 
 ### 3. Temporary Ban
 
-**Community Impact**: A serious violation of community standards, including
+**Community Impact**: A violation of community standards, including
 sustained inappropriate behavior.
 
 **Consequence**: A temporary ban from any sort of interaction or public
